@@ -1,2 +1,3 @@
-# INFO7374_ADM_Team2
+# Team2_INFO7374_Spring2021
+
 Algorithmic Digital Marketing - Team 2
